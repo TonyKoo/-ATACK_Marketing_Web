@@ -1,5 +1,5 @@
 # Industry - SSD
-A React and .NET Marketing Web Application created by Athena, Tony, Albert, Crystal, Kasra. Copyright 2020.
+A React and .NET Marketing Web Application. Copyright 2020.
 
 View live demo: [https://atack-marketing.herokuapp.com/](https://atack-marketing.herokuapp.com/)
 
