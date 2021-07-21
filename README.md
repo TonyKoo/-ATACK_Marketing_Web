@@ -1,4 +1,4 @@
-# Industry - SSD
+# ATACK Marketing Web App (Industry Project - SSD)
 A React and .NET Marketing Web Application. Copyright 2020.
 
 View live demo: [https://atack-marketing.herokuapp.com/](https://atack-marketing.herokuapp.com/)
